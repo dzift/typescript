@@ -1,1 +1,1 @@
-# Настройка TypeScript с React
+# Настройка TypeScript для React
